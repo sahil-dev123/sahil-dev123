@@ -248,7 +248,7 @@ Current Interests:
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://69fcd3921831750009ba6c24--heroic-cucurucho-a28115.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://sahilkdev.netlify.app/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-khundiya-18b1a6191/)
 
